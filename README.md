@@ -1,3 +1,3 @@
 # Geo-alarm
 
-Multiplatform aplication that will set an alarm in order of a map location.
+Multiplatform aplication that will set an alarm by a map location.
